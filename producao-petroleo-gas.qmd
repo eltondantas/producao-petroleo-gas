@@ -1,0 +1,19 @@
+---
+title: "Produção de Petróleo e Gás no Brasil"
+author: "Elton Dantas de Oliveira Mesquita"
+format: html
+editor: visual
+---
+
+## Setup
+
+```{r setup}
+if (!require("pacman")) install.packages("pacman"); library(pacman)
+p_load('rio','data.table','tidyverse','tidymodels','timetk','modeltime')
+```
+
+## Dados
+
+```{r}
+
+```
